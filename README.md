@@ -12,7 +12,7 @@
 DA-CaseBase/
 ├── P1-问题定义.md        ✅ 已完成
 ├── P2-文献调研.md        ✅ 已完成（含技术方法总结）
-├── literature/           # 论文 PDF 文件（34个）
+├── review/           # 论文 PDF 文件（34个）
 │   ├── P01-2025-LangCache-Semantic-Caching.pdf
 │   ├── P02-2026-CBR-to-SQL-Case-Based-Reasoning.pdf（待补充）
 │   └── ...
@@ -39,7 +39,7 @@ DA-CaseBase/
 
 | 文件夹 | 用途 | 内容 |
 |--------|------|------|
-| **literature/** | 原始论文 | PDF 文件，按 `P<序号>-<年份>-<关键词>-<简称>.pdf` 命名 |
+| **review/** | 原始论文 | PDF 文件，按 `P<序号>-<年份>-<关键词>-<简称>.pdf` 命名 |
 | **review/** | 深度解读 | md 文件，按 `P<序号>-<年份>-<关键词>-<简称>.md` 命名 |
 | **code/** | 实验代码 | Python/其他代码 |
 | **data/** | 数据文件 | 数据集、中间结果 |
@@ -63,7 +63,7 @@ DA-CaseBase/
 
 | 类别 | 数量 | 说明 |
 |------|------|------|
-| **PDF 文件** | 34 | literature/ 目录 |
+| **PDF 文件** | 34 | review/ 目录 |
 | **深度解读** | 38 | review/ 目录（含简化解读）|
 | **核心论文** | 21 | P01-P21 |
 | **补充论文** | 17 | P22-P38 |
@@ -86,7 +86,7 @@ DA-CaseBase/
 
 - **SKILL.md**: `~/.openclaw/agents/researcher/skills/research-methodology/SKILL.md`
 - **论文清单**: `~/agentKB/Obsidian/AI-Workspace/Research/DA-CaseBase/论文清单.md`
-- **Obsidian 解读**: `~/agentKB/Obsidian/AI-Workspace/Research/DA-CaseBase/literature/`
+- **Obsidian 解读**: `~/agentKB/Obsidian/AI-Workspace/Research/DA-CaseBase/review/`
 
 ---
 
