@@ -80,10 +80,12 @@
 - [ ] 假设补充验证路径（用什么数据集、什么指标验证）
 - [ ] H4（95%准确率）下调或明确限定条件
 
-### P2 补强 ⏸️ 待开始
-- [ ] 补漏论文（DTS-SQL, SENSE, CHESS, CodeS, EHRSQL, MAC-SQL, DIN-SQL, CHASE-SQL）
-- [ ] 补 CBR 经典文献（Aamodt & Plaza 1994 等）
-- [ ] 补语义缓存文献（SemCache, CacheBlend, MemGPT）
+### P2 补强 ✅ 已完成
+- [x] 第一批论文解读（P39-P42: DIN-SQL, MAC-SQL, CHASE-SQL, SENSE）
+- [x] 第二批论文解读（P43-P46: DTS-SQL, CHESS, CodeS, EHRSQL）
+- [x] 第三批论文解读（P47-P49: SemCache, LowCost-Cache, CacheBlend）
+- [x] 同步到 Obsidian
+- [x] 更新 P2-文献调研.md
 - [ ] 深挖 CBR-to-SQL 失败模式分析
 - [ ] 统一对比实验数据表（标注数据集、设定、指标）
 
@@ -128,6 +130,7 @@
 
 | 日期 | 事项 |
 |------|------|
+| 2026-04-17 | P2补漏完成：11篇论文（P39-P49），解读+Obsidian同步 |
 | 2026-04-14 | P3 完成（Opus API确认Q1-Q7），研究空白4条明确 |
 | 2026-04-14 | P3 Step 1-4 全部完成，创新点凝练为3个深度方向 |
 | 2026-04-14 | 更新 TASKS.md，细化 P3 四步骤 |
